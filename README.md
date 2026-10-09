@@ -47,3 +47,15 @@ The following screenshots document my hands-on work for Task 1 of my Cyber Secur
 ![TCP reset analysis](screenshots/task-1/tcp%20flages.png)
 
 *Figure 7: TCP RST and RST/ACK packets examined in Wireshark.*
+
+
+---
+
+## Internship Report
+
+This report documents my practical work for Task 1 of my Cyber Security Internship at Redynox, including the security configurations, Wireshark traffic analysis, findings, screenshots, and recommendations.
+
+**Intern:** Azorji Perpetual Mmesomachi
+
+[Download the Task 1 Internship Report](report/Redynox_Cyber_Security_Internship_Task_1_Report_Final_Azorji_Perpetual_Mmesomachi.docx)
+
